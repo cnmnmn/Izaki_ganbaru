@@ -13,6 +13,8 @@
 
 * [BeautifulSoup](BeautifulSoup.md)
 
+* [Computing](conputing.md)
+
 * [Deployment](Deployment.md)
 
 * [Package_Management](Package_Management.md)
