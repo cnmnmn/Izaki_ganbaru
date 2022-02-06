@@ -1,13 +1,15 @@
 # Izaki_ganbaru
 
-## ���N���J���i�C�P��m�Z��
+## ヨクワカラナイ単語ノセル
 
-��ŒT���₷�����邽�߂Ɉꉞ�A���t�@�x�b�g���ɂ��Ă��܂��B
+後で探しやすくするために一応アルファベット順にしています。
 
 
 * [Anaconda](Anaconda.md)
 
 * [ARM](ARM.md)
+
+* [BeautifulSoup](BeautifulSoup.md)
 
 * [Deployment](Deployment.md)
 

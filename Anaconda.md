@@ -1,5 +1,5 @@
 # Anaconda
 
-�Ȋw�v�Z�̂��߂�Python�y��R����̖����̃I�[�v���\�[�X�f�B�X�g���r���[�V�����ł���C[�p�b�P�[�W�Ǘ�](Package_Management.md)��[�f�v���C�����g](Deployment.md)���ȗ������邱�Ƃ�_�������̂ł���D
+科学計算のためのPython及びR言語の無料のオープンソースディストリビューションであり，[パッケージ管理](Package_Management.md)と[デプロイメント](Deployment.md)を簡略化することを狙ったものである．
 
-�p�b�P�[�W�̃o�[�W�����́C�p�b�P�[�W�Ǘ��V�X�e�� conda �ɂ���ĊǗ�����Ă���D
+パッケージのバージョンは，パッケージ管理システム conda によって管理されている．
